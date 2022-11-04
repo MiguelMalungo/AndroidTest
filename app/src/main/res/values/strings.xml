@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+    <string name="happy_birthday">Happy Birthday!</string>
+    <string name="happy_happy">Happy Happy!</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="stuff">stuff</string>
+    <string name="todo">TODO</string>
+    <string name="img">img</string>
+    <string name="number">Name</string>
+    <string name="textview3">TextView</string>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="click_button">Click Button</string>
+</resources>
